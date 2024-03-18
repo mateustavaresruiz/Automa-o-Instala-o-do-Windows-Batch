@@ -39,7 +39,6 @@ No geral, o script é útil para automatizar uma série de tarefas comuns de con
 
 O script utiliza o formato de acessar o arquivo por meio de outro computador para que não seja necessário copiar todos os arquivos. A estrutura para definir o diretório que está o programa seria:  
 
-//computador/pasta/arquivo.exe /parâmetro
-//pc10/e/Java.exe /s (start /wat //pc10/e/Java.exe /s)
+//computador/pasta/arquivo.exe /parâmetro ----- //pc10/e/Java.exe /s (start /wat //pc10/e/Java.exe /s)
 
 (Lembrando que pode variar de diretório e parâmetro, não existe um padrão)
