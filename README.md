@@ -1,5 +1,3 @@
-Documentação Automação Batch
-
 Este script em lote (batch) tem a finalidade de realizar uma série de configurações automáticas em um computador com Windows, incluindo verificação do nome do computador, configuração de IP fixo, aplicação de diversas configurações de segurança e rede, e instalação de diferentes versões do Microsoft Office e programas adicionais.
 
 Aqui está uma breve análise do código:
